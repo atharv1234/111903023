@@ -1,0 +1,5 @@
+we first included stdio.h necessary for the functioning.
+we use void as it tells we give no parameters and theres a universal pointer.
+we use main function to denote the starting of the program.
+printf prints the strings which we give in between "".
+getch is used to read characters on screen 
